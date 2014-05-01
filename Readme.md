@@ -3,6 +3,8 @@
 
   Build an array from an iterator
 
+  [![Build Status](https://travis-ci.org/jb55/toarray-iterator.svg)](https://travis-ci.org/jb55/toarray-iterator)
+
 ## Installation
 
   Install with npm
